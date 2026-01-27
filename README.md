@@ -6,6 +6,7 @@
 
 ## Module 1 — Strings Homework
 
-**Homework (open in Colab):**  
-[![Open Homework in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jspiegel3/MCON232_Strings_FC/blob/main/MCON232_FC_Module_1_Strings_Homework.ipynb)
+[Homework — Open in Colab](https://colab.research.google.com/github/jspiegel3/MCON232_Strings_FC/blob/main/MCON232_FC_Module_1_Strings_HomeworK.ipynb)  
+[![Open Homework in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jspiegel3/MCON232_Strings_FC/blob/main/MCON232_FC_Module_1_Strings_HomeworK.ipynb)
+
 
